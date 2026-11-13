@@ -5,5 +5,3 @@ __pycache__/
 .venv/
 data/*
 !data/README.md
-reports/figures/*
-!reports/figures/.gitkeep
